@@ -1,4 +1,4 @@
-MySQL Window Functions – Visual Guide
+MySQL Window Functions
 
 Project Overview
 
